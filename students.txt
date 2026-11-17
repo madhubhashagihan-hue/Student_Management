@@ -1,0 +1,7 @@
+1,Kamal,80.0
+3,Amal,45.0
+4,vimal,60.0
+6,thilak,67.0
+8,kaveesha,80.0
+6,vimukthi,50.0
+2,suranga,50.0
